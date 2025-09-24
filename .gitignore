@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+auxillary/
+setup/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+
+# Frontend Tailwind / CSS output (optional, if you build it)
+# frontend/css/*.css
+# frontend/css/*.map
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Database files (if using local SQLite for testing)
+*.sqlite
+*.sqlite3
+
+# Misc
+*.bak
+*.swp

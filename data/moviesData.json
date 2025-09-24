@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Jumbo",
+    "genres": ["Horror"],
+    "releaseDate": "2025-05-01",
+    "duration": "120 mins",
+    "scheduleTime": ["2025-05-01T00:00:00"],
+    "posterUrl": "/images/jumboCover.jpg",
+    "description": "Film jumbo",
+    "age": "SU"
+  },
+  {
+    "name": "Pahlawan Perisai",
+    "genres": ["Adventure"],
+    "releaseDate": "2025-08-21",
+    "duration": "140 mins",
+    "scheduleTime": [
+      "2025-08-21T00:00:00",
+      "2025-08-21T09:00:00"
+    ],
+    "posterUrl": "/images/perisaiCover.jpg",
+    "description": "Prajurit super dengan perisai bintang",
+    "age": "SU"
+  },
+  {
+    "name": "Dokter Aneh",
+    "genres": ["Fantasy"],
+    "releaseDate": "2025-11-11",
+    "duration": "125 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/dokterCover.jpg",
+    "description": "Penyihir ahli waktu dan dunia paralel",
+    "age": "SU"
+  },
+  {
+    "name": "Cerita Mainan 5",
+    "genres": ["Animation"],
+    "releaseDate": "2025-10-05",
+    "duration": "90 mins",
+    "scheduleTime": ["2025-10-05T10:30:00"],
+    "posterUrl": "/images/mainan5.jpg",
+    "description": "Mainan yang hidup saat manusia tak melihat",
+    "age": "SU"
+  },
+  {
+    "name": "Mufasa",
+    "genres": ["Adventure"],
+    "releaseDate": "2025-12-09",
+    "duration": "118 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/MUFASACover.jpg",
+    "description": "Lost and alone, orphaned cub Mufasa meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of an extraordinary group of misfits searching for their destinies.",
+    "age": "SU"
+  },
+  {
+    "name": "Sorop",
+    "genres": ["Horror"],
+    "releaseDate": "2024-12-19",
+    "duration": "103 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/soropCover.jpg",
+    "description": "Dalam budaya Jawa, kata sorop merujuk pada waktu peralihan antara sore menuju malam, khususnya sekitar waktu maghrib. Dalam kepercayaan masyarakat Jawa, waktu sorop dianggap sebagai jam keramat karena diyakini menjadi saat ketika makhluk halus (lelembut) mulai bermunculan atau aktif",
+    "age": "17+"
+  },
+  {
+    "name": "Modal Nekad",
+    "genres": ["Comedy"],
+    "releaseDate": "2024-12-19",
+    "duration": "107 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/modalCover.jpg",
+    "description": "Modal Nekad adalah film drama komedi Indonesia yang dirilis pada tahun 2024 yang disutradarai oleh Imam Darto sekaligus menjadi debut penyutradaraannya di film layar lebar, dan diproduksi oleh Starvision dan Pabrik Cerita.",
+    "age": "13+"
+  },
+  {
+    "name": "Bila Esok Ibu Tiada",
+    "genres": ["Drama"],
+    "releaseDate": "2024-11-14",
+    "duration": "104 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/bilaCover.jpg",
+    "description": "A family with four children who are very dependent on their mother. The mother always gives her best and dedicates herself to taking care of her children.",
+    "age": "13+"
+  },
+  {
+    "name": "Hutang Nyawa",
+    "genres": ["Horror"],
+    "releaseDate": "2024-12-12",
+    "duration": "100 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/hutangCover.jpg",
+    "description": "Erwina, the youngest child who works in a factory that is known as the oldest in the area and is the mainstay of many families.",
+    "age": "17+"
+  },
+  {
+    "name": "Wicked",
+    "genres": ["Fantasy"],
+    "releaseDate": "2024-11-22",
+    "duration": "160 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/wickedCover.jpg",
+    "description": "Misunderstood because of her green skin, a young woman named Elphaba forges an unlikely but profound friendship with Glinda, a student with an unflinching desire for popularity. Following an encounter with the Wizard of Oz, their relationship soon reaches a crossroad as their lives begin to take very different paths.",
+    "age": "SU"
+  },
+  {
+    "name": "Werewolves",
+    "genres": ["Action"],
+    "releaseDate": "2024-12-06",
+    "duration": "94 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/werewolfCover.jpg",
+    "description": "A scientist and his family find themselves in a fight for their lives when a supermoon event turns humans into bloodthirsty werewolves.",
+    "age": "13+"
+  },
+  {
+    "name": "Almarhum",
+    "genres": ["Horror"],
+    "releaseDate": "2025-01-09",
+    "duration": "103 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/almaCover.jpg",
+    "description": "A family who has just lost one of their family members. After the incident, the family experiences a series of terrifying and scary events.",
+    "age": "17+"
+  },
+  {
+    "name": "Gangnam Zombie",
+    "genres": ["Action"],
+    "releaseDate": "2023-01-05",
+    "duration": "81 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/gangnamCover.jpg",
+    "description": "In the centre of Seoul, previously normal people begin attacking other citizens, leading a former athlete to play one final match against the zombies.",
+    "age": "13+"
+  },
+  {
+    "name": "Moana 2",
+    "genres": ["Animation"],
+    "releaseDate": "2024-11-27",
+    "duration": "100 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/moana2Cover.jpg",
+    "description": "After receiving an unexpected call from her wayfinding ancestors, a strong-willed girl journeys with her crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she has ever faced.",
+    "age": "SU"
+  },
+  {
+    "name": "Sonic 3",
+    "genres": ["Comedy"],
+    "releaseDate": "2024-12-20",
+    "duration": "110 mins",
+    "scheduleTime": ["2025-11-11T00:00:00"],
+    "posterUrl": "/images/SonicCover.jpg",
+    "description": "Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new enemy with powers unlike anything they've faced before. With their abilities outmatched in every way, they seek out an unlikely alliance to stop Shadow and protect the planet.Sonic, Knuckles and Tails reunite to battle Shadow, a mysterious new enemy with powers unlike anything they've faced before. With their abilities outmatched in every way, they seek out an unlikely alliance to stop Shadow and protect the planet.",
+    "age": "SU"
+  }
+]
