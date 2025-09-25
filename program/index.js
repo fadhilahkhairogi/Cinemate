@@ -3,9 +3,11 @@ import express from "express";
 import dotenv from "dotenv";
 import sequelize from "./config/database.js";        // Sequelize instance
 import movieRoutes from "./routes/movieRoutes.js"; // Routes for movies
+import userRoutes from "./routes/authRoutes.js"; // Routes for user auth
 import path from "path";
 import { fileURLToPath } from "url";
 import loadMovieData from "./config/movieDataLoader.js";
+import e from "express";
 
 // Load environment variables from .env
 dotenv.config();
@@ -48,6 +50,11 @@ app.get("/", (req, res) => {
 
 // Mount movie routes
 app.use("/movies", movieRoutes);
+
+// Mount user routes
+app.use("/user", userRoutes);
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 // Sync database (optional, only for dev)
 // sequelize.sync({ force: false }) // force: true will drop tables each time
